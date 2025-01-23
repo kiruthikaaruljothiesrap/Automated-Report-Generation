@@ -163,3 +163,4 @@ Copy
 Edit
 python generate_report.py
 Open the generated sales_report.pdf to view the report.
+
